@@ -68,4 +68,4 @@ function validateInputs () {
         setSuccess(password2);
     }
 
-};
+}
